@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sisbws
 - 👀 I’m interested in web development and software engineering in general.
 - 🌱 I’m currently learning Tensorflow and Nextjs.
-- 💞️ I’m looking to collaborate on web development or linux projects.
+- 💞️ I’m looking to collaborate on C# or linux projects.
 - 📫 You can reach me at @sisbws on Twitter and Telegram.
 
 <!---
