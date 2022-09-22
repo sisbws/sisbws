@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sisbws
-- 👀 I’m interested in web development and software engineering in general.
-- 🌱 I’m currently learning Tensorflow and Nextjs.
+- 👋 Hi, I’m Syed Waliullah Shah. You can call me Wali. 🙂
+- 👀 I’m interested in software engineering and computer science.
+- 🌱 I’m currently learning LINQ.
 - 💞️ I’m looking to collaborate on C# or linux projects.
 - 📫 You can reach me at @sisbws on Twitter and Telegram.
 
